@@ -1,1 +1,24 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+ #wall #tag-2 {
+    top: 20px;
+    left: 20px;
+ }
+
+ .parent #tag-5 {
+    left: 40;
+    width: 700px;
+ }
+
+ #wall #tag-6 {
+    height: 500px;
+ }
+ .parent #tag-4 {
+     display: none;
+ }
+
+ #wall #tag-7 {
+    position: inherit;
+ }
